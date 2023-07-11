@@ -192,6 +192,20 @@
     box-shadow: 2px  2px;
     border-radius: 5px;
     box-shadow: none;
+    font-size: 20px;
+    align-items: center;
+    text-transform: capitalize;
+}
+.etext button {
+    width: 130px;
+    height: 47px;
+    background-color: tomato;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
 }
 
 /*------------------------*/
