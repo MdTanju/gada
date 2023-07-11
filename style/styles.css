@@ -163,12 +163,36 @@
     width: 80%;
     margin-top: 100px;
     height: 400px;
-    background-color: rgb(255, 255, 250);
-    background-image:url(back.png);
-     margin: 0 auto;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-image: url("/img/back.png");
  }
 
-  
+
+
+.etext h1{
+    align-items: center;
+    text-align: center;
+    margin-top: 80px;
+    padding: 80px;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.etext .input2 {
+    width: 500px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    margin:  0 auto;
+    margin-left: 350px;
+    box-shadow: 2px  2px;
+    border-radius: 5px;
+    box-shadow: none;
+}
 
 /*------------------------*/
  footer{
