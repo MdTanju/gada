@@ -168,11 +168,19 @@
     background-repeat: no-repeat;
     background-size:400px;
     background-size:contain;
+    background-color: burlywood;
 
     background-image: url("/img/back.png") ;
     background-image: url("/img/back.png");
  }
+ .etext p {
+    align-items: center;
+    text-align: center;
+    
+    font-size:16px;
+    text-transform: capitalize;
 
+ }
 
 
 .etext h1{
