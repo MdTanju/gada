@@ -166,7 +166,9 @@
     margin: 0 auto;
     margin-top: 100px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:400px;
+    background-size:contain;
+
     background-image: url("/img/back.png") ;
     background-image: url("/img/back.png");
  }
