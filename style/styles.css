@@ -1,0 +1,202 @@
+
+.navber {
+    background-color: aliceblue;
+    width: 100%;
+    height: 600%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.textnav , .img {
+    width: 50%;
+}
+.textnav {
+    margin-left: 230px;
+    margin-bottom: 120px;
+}
+.img  {
+    padding-right: 160px;
+
+}
+.img img {
+    width:100%;
+    height: auto;
+    margin-top: 60px;
+}
+.textnav h1  {
+    font-size: 56px;
+}
+.textnav h5 {
+    font-size: 20px;
+    color: rgba(78, 78, 78, 0.7);
+    font-style: normal;
+}
+.textnav input {
+    width: 150px;
+    text-align: center;
+   background-color: tomato;
+   height: auto;
+   font-size: 26px;
+   padding: 5px;
+   font-weight: bold;
+   border-radius: 5px;
+   text-transform: capitalize;
+}
+
+
+
+.tansec {
+    width: 70%;
+    height: 300px;
+    margin: 0 auto;
+   margin-top: 100px;
+   display: flex;
+    background-color: rgb(166, 170, 174);
+  }
+  .tansec .tanimg {
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 70px;
+  }
+  .tanimg {
+    font-size: 20px;
+    color: rgb(251, 253, 255);
+  }
+
+
+
+/*  -----------------*/
+
+   .textimg{
+    width: 100%;
+    height: auto;
+    background-color: rgb(245, 233, 218);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.text  ,.imgtan{
+    width: 50%;
+}
+ .text {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+ }
+
+ .text h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+ }
+
+ .text p {
+    color: rgba(78, 78, 78, 0.7);
+
+ }
+.textimg  button{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+    border: 1px solid tomato;
+    background-color: tomato;
+    border-radius: 5px;
+
+}
+
+.imgtan img{
+    align-items: center;
+    justify-content: center;
+    right: 100px;
+}
+
+/*  -----------------*/
+
+
+.srction1 {
+    width: 100%;
+    height: auto;
+}
+ .srction1 .sectext1 {
+    text-align: center;
+ }
+  .sectext1  h1 {
+    font-size: 35px;
+    text-transform: capitalize;
+    padding-top: 100px;
+
+  }
+
+   .sectext1 h4 {
+     font-size: 20px;
+    color: rgba(78, 78, 78, 0.7);
+    font-style: normal;
+   }
+   
+
+   .srction1  .tanjuimg {
+    width: 70%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 20px;
+ }
+ .srction1  .tanjuimg div img {
+    width: 200px;
+    height: 280px;
+ }
+ /*----------------------*/
+ .emaill {
+
+    width: 80%;
+    margin-top: 100px;
+    height: 400px;
+    background-color: rgb(255, 255, 250);
+    background-image:url(back.png);
+     margin: 0 auto;
+ }
+
+  
+
+/*------------------------*/
+ footer{
+    width: 100%;
+    height: 360px;
+    padding-top: 50px;
+   margin-top: 100px;
+    background-color: rgb(33, 24, 24);
+ }
+ .foottext {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+ }
+ .foottext h1 {
+    font-size: 50px;
+    color: white;
+    text-transform: capitalize;
+ }
+ span{
+    color: tomato;
+    padding-top: 30px;
+ }
+ .foottext p {
+    color: rgba(161, 165, 169);
+ }
+ .foottext h6 {
+    font-size: 19px;
+    color: rgba(161, 165, 169);
+ }
