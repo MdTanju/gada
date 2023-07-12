@@ -170,8 +170,8 @@
     background-size:contain;
     background-color: burlywood;
 
-    background-image: url("/img/back.png") ;
-    background-image: url("/img/back.png");
+    background-image: url('/img/email.png') ;
+  
  }
  .etext p {
     align-items: center;
