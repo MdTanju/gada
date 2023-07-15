@@ -170,7 +170,7 @@
     background-size:contain;
     background-color: burlywood;
 
-    background-image: url('./img/email.png') ;
+    background-image: url("../img/email.png") ;
   
  }
  .etext p {
